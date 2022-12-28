@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671031831 source:d:\code playground\c++\codeblocks practices\cppbasics\main.cpp
+	<iostream>
+
+1671031780 source:d:\code playground\c++\codeblocks practices\cppbasics\helloworld.cpp
+	<iostream>
+
